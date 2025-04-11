@@ -62,7 +62,7 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 ## Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-GitHub Issues: https://github.com/micke/linkeding_ai_news/issues
+GitHub Issues: https://github.com/hazzler78/policy/issues
 
 ## Legal Compliance
 
